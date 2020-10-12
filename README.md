@@ -1,9 +1,8 @@
 # Christian Resources
 Repository of links for tools, apis, library and resources to help developers called to evangelization.
 
----
-
 ## APIs
+### Bible
 - API.Bible (https://scripture.api.bible/): 
   - free non-commercial usage 
   - requires subscription
@@ -26,6 +25,8 @@ Repository of links for tools, apis, library and resources to help developers ca
   > The Biblia.com API provides Web, mobile, and desktop applications with access to Bible text through web services. 
   
 - Bible Reference (https://rapidapi.com/gryfoleon/api/bible-references)
+
+- ESV API (https://api.esv.org/)
 
 - GetBible (https://getbible.net/api)
   - public
