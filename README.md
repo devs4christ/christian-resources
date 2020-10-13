@@ -35,3 +35,14 @@ Repository of links for tools, apis, library and resources to help developers ca
 - Holy Bible (https://rapidapi.com/ajith/api/holy-bible/endpoints)
   - free
   - unlimited
+
+## Repositories
+- Aquinas Opera Omnia (https://github.com/Geremia/AquinasOperaOmnia)
+- Awesome Catholic (https://github.com/servusDei2018/awesome-catholic)
+- Catechism of the Catholic Church (https://github.com/nossbigg/catechism-ccc-json)
+- Liturgical Calendar (https://github.com/JohnRDOrazio/LiturgicalCalendar)
+- Geomesse API (https://github.com/carpedeum-fr/geomesse-api)
+
+## Websites
+- https://aquinas101.thomisticinstitute.org/st-index
+- https://www.opensourcecatholic.com/archive/
