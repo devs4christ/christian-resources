@@ -51,11 +51,21 @@ Repository of links for tools, apis, library and resources to help developers ca
 - Epiphany Proclamation Chant (Czech) Generator (https://github.com/igneus/epiphany-proclamation-chant-generator)
 - Examen (https://github.com/Apexal/examen)
 - Geomesse API (https://github.com/carpedeum-fr/geomesse-api)
+- Historic Christian Books (https://github.com/deeproots/books)
 - Lectionarium (https://github.com/davidrmcharles/lectionarium)
+- Mere Christianity - C.S.Lewis (https://github.com/F1LT3R/mere-christianity)
 - Liturgical Calendar (https://github.com/JohnRDOrazio/LiturgicalCalendar)
+- Opensource Church Software (https://gist.github.com/seven1m/aa2b43208293c01ce3698a89260712b7)
 - Rosario (https://github.com/rojoherrero/rosario)
 - Vatican (https://github.com/lologhi/vatican)
 
 ## Websites
 - https://aquinas101.thomisticinstitute.org/st-index
-- https://www.opensourcecatholic.com/archive/
+- https://www.opensourcecatholic.com/archive/  (https://github.com/opensourcecatholic/opensourcecatholic.github.io)
+- https://library.cityvision.edu/christian-freeware
+- https://openlp.org/
+- http://catholicblockchain.org/2018/06/13/software-development-for-catholic-blockchain/
+- https://forum.musicasacra.com/forum/discussion/12746/open-source-catholic-hymnal/p1
+- https://www.catholicresearch.org/catholic-resources-in-digital-form
+- https://dynamiccatholic.com/
+
