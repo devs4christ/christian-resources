@@ -36,12 +36,25 @@ Repository of links for tools, apis, library and resources to help developers ca
   - free
   - unlimited
 
+### Roman Catholic Calendar
+- RomCal API (https://github.com/romcal/romcal-api)
+- Church Calendar API (http://calapi.inadiutorium.cz/) (https://github.com/igneus/church-calendar-api)
+
 ## Repositories
 - Aquinas Opera Omnia (https://github.com/Geremia/AquinasOperaOmnia)
+- A Saint a day (https://github.com/webstermath/A-Saint-A-Day)
 - Awesome Catholic (https://github.com/servusDei2018/awesome-catholic)
+- Catholic Saints Fortunes for Linux v1.1 (https://github.com/redblade7/saints)
+- Catholicodex (https://github.com/kvnol/catholicodex)
 - Catechism of the Catholic Church (https://github.com/nossbigg/catechism-ccc-json)
-- Liturgical Calendar (https://github.com/JohnRDOrazio/LiturgicalCalendar)
+- Divinum Officium (https://github.com/Geremia/divinum-officium)
+- Epiphany Proclamation Chant (Czech) Generator (https://github.com/igneus/epiphany-proclamation-chant-generator)
+- Examen (https://github.com/Apexal/examen)
 - Geomesse API (https://github.com/carpedeum-fr/geomesse-api)
+- Lectionarium (https://github.com/davidrmcharles/lectionarium)
+- Liturgical Calendar (https://github.com/JohnRDOrazio/LiturgicalCalendar)
+- Rosario (https://github.com/rojoherrero/rosario)
+- Vatican (https://github.com/lologhi/vatican)
 
 ## Websites
 - https://aquinas101.thomisticinstitute.org/st-index
